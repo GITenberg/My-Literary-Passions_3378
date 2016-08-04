@@ -1,0 +1,38 @@
+_repo: My-Literary-Passions_3378
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2004-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: The Bookcase at Home -- Goldsmith -- Cervantes -- Irving -- First
+  Fiction and Drama -- Longfellow's "Spanish Student" -- Scott -- Lighter Fancies
+  -- Pope -- Various Preferences -- Uncle Tom's Cabin -- Ossian -- Shakespeare --
+  Ik Marvel -- Dickens -- Wordsworth, Lowell, Chaucer -- Macaulay -- Critics and Reviews
+  -- A Non-literary Episode -- Thackeray -- "Lazarillo De Tormes" -- Curtis, Longfellow,
+  Schlegel -- Tennyson -- Heine -- De Quincey, Goethe, Longfellow -- George Eliot,
+  Hawthorne, Goethe, Heine -- Charles Reade -- Dante -- Goldoni, Manzoni, D'azeglio
+  -- "Pastor Fido," "Aminta," "Romola," "Yeast," "Paul Ferroll" -- Erckmann-chatrian,
+  Bjorstjerne Bjornson -- Tourguenief, Auerbach -- Certain Preferences and Experiences
+  -- Valdes, Galdos, Verga, Zola, Trollope, Hardy -- Tolstoy
+title: My Literary Passions
+url: http://www.gutenberg.org/ebooks/3378
